@@ -1,0 +1,6 @@
+﻿"informe","seccion","periodo_inicio","periodo_fin","zona_horaria","generado_en","id","estacion","nombre","tipo","ubicacion","cantidad","moviles"
+"ubicaciones","Catálogo de ubicaciones y consignas","2026-10-26","2026-11-01","America/Guayaquil","2026-10-31T15:00:00.000Z","1","URDESA","Av. Las Aguas","UBICACIÓN","","",""
+"ubicaciones","Catálogo de ubicaciones y consignas","2026-10-26","2026-11-01","America/Guayaquil","2026-10-31T15:00:00.000Z","2","URDESA","Parque de Urdesa","PUNTO DE CONSIGNA","","",""
+"ubicaciones","Catálogo de ubicaciones y consignas","2026-10-26","2026-11-01","America/Guayaquil","2026-10-31T15:00:00.000Z","3","URDESA","Punto de vigilancia norte","PUNTO DE CONSIGNA","","",""
+"ubicaciones","Sectores con mayor actividad","2026-10-26","2026-11-01","America/Guayaquil","2026-10-31T15:00:00.000Z","","URDESA","","","Av. Las Aguas","18","2"
+"ubicaciones","Sectores con mayor actividad","2026-10-26","2026-11-01","America/Guayaquil","2026-10-31T15:00:00.000Z","","URDESA","","","Parque de Urdesa","9","2"

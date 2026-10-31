@@ -1,0 +1,1 @@
+CREATE TABLE google_oauth_tokens(id INTEGER PRIMARY KEY CHECK(id=1),generation TEXT NOT NULL,payload TEXT,estado TEXT NOT NULL,error TEXT,autorizado_por INTEGER REFERENCES usuarios(id),modificado_en TEXT NOT NULL);

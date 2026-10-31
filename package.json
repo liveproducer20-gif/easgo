@@ -1,0 +1,24 @@
+{
+  "name": "eas-go",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "npm run build && node --test --test-concurrency=2",
+    "build": "node scripts/build-ui.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "html2canvas": "^1.4.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "dependencies": {
+    "google-auth-library": "^11.3.2",
+    "pdfkit": "^0.20.2"
+  }
+}
